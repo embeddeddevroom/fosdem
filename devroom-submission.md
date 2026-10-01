@@ -8,7 +8,7 @@ Embedded, Mobile and Automotive
 The Embedded, Mobile and Automotive Devroom aims at gathering
 developers interested in open-source hardware or open-source software
 in embedded systems in the broadest possible sense: industrial,
-automotive, mobile, etc. Its main goal is to showcase open source
+automotive, mobile, etc. Its main goal is to showcase open-source
 projects and allow people to share their experience, exchange
 knowledge and foster open collaboration.
 
@@ -22,7 +22,7 @@ Possible topics include:
 ## Why does it fit FOSDEM?
 
 The Embedded, Mobile and Automotive industries heavily depend on
-FOSS. There are so many related open source projects that it is almost
+FOSS. There are so many related open-source projects that it is almost
 impossible to know them all. That's why we believe that knowledge
 sharing is a main goal of this devroom.
 
@@ -32,7 +32,7 @@ the interest of the open-source community in this topic.
 
 # Contact information
 
-To be filled in while submitting the proposal (GDPR;)
+To be filled in while submitting the proposal (GDPR)
 
 # Additional information
 ## Relevant URLs
