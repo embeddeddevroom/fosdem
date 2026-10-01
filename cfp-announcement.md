@@ -1,11 +1,11 @@
 This email is a Call For Participation in the Embedded, Mobile and
-Automotive Devroom at FOSDEM 2026.
+Automotive Devroom at FOSDEM 2027.
 
 
-Devroom date: Sunday, February 1st 2026 in Brussels, Belgium
-CFP deadline: Sunday, November 23rd 2025.
+Devroom date: <TODO> in Brussels, Belgium
+CFP deadline: Sunday, November 29th 2026.
 
-Final speaker confirmation on Monday, December 15th 2025.
+Final speaker confirmation on Monday, December 7th 2026.
 
 
 CFP Introduction
@@ -36,9 +36,9 @@ as well and our definition of "embedded" is elastic.
 CFP Schedule And Submission Details
 -----------------------------------------------------------
 
-Please submit proposals no later than the 23rd of November 2025.
+Please submit proposals no later than the 29th of November 2026.
 
-Please use the following URL to submit your talk to FOSDEM 2026:
+Please use the following URL to submit your talk to FOSDEM 2027:
 
 https://fosdem.org/submit
 
@@ -85,11 +85,11 @@ Subscribe here: https://lists.fosdem.org/listinfo/embedded-devroom
 About the devroom organizers
 --------------------------------------------------
 
-The co-organizers of the FOSDEM 2026 Embedded devroom are
+The co-organizers of the FOSDEM 2027 Embedded devroom are
 (in alphabetical order by surname):
 
 * Luca Ceresoli
+* Jan Lübbe
 * Walt Miner
 * Krzysztof Opasiak
-* Chris Simmonds
 * Geert Uytterhoeven
