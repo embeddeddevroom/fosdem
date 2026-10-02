@@ -60,8 +60,9 @@ Please follow these rules:
      * Specify additional speaker email (if any). The co-speaker will
        need to create an account in order to be visible on the agenda.
 
-     * Use the "Links" sub-area to link to past work in the field
-       you'd like to share.
+     * Use the "Links" sub-area to link to your project website, past
+       work in the field you'd like to share or other particularly
+       relevant links.
 
      * You will also need to state the OSI-approved license of the
        project your talk is about (e.g. GPL-2.0 for the Linux kernel),
