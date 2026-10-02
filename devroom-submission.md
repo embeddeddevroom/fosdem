@@ -22,7 +22,8 @@ Possible topics include:
 ## Why does it fit FOSDEM?
 
 The Embedded, Mobile and Automotive industries heavily depend on
-FOSS. There are so many related open-source projects that it is almost
+FOSS, and so do many hardware hackers, makers and tinkerers. There
+are so many related open-source projects that it is almost
 impossible to know them all. That's why we believe that knowledge
 sharing is a main goal of this devroom.
 
