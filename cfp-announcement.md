@@ -3,7 +3,7 @@ Automotive Devroom at FOSDEM 2027.
 
 
 Devroom date: <TODO> in Brussels, Belgium
-CFP deadline: Sunday, November 29th 2026.
+CFP deadline: Wednesday, November 25th 2026.
 
 Final speaker confirmation on Monday, December 7th 2026.
 
@@ -37,7 +37,7 @@ elastic.
 CFP Schedule And Submission Details
 -----------------------------------------------------------
 
-Please submit proposals no later than the 29th of November 2026.
+Please submit proposals no later than the 25th of November 2026.
 
 Please use the following URL to submit your talk to FOSDEM 2027:
 
