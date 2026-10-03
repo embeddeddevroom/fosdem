@@ -1,3 +1,5 @@
+* DRAFT. The CFP has not been announced yet *
+
 This email is a Call For Participation in the Embedded, Mobile and
 Automotive Devroom at FOSDEM 2027.
 
