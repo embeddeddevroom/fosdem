@@ -1,11 +1,8 @@
-> [!CAUTION]
-> DRAFT: The CFP has not been announced yet.
-
 This email is a Call For Participation in the Embedded, Mobile and
 Automotive Devroom at FOSDEM 2027.
 
 
-Devroom date: <TODO> in Brussels, Belgium
+Devroom date: Saturday, January 30th 2027 in Brussels, Belgium
 CFP deadline: Wednesday, November 25th 2026.
 
 Final speaker confirmation on Monday, December 7th 2026.
